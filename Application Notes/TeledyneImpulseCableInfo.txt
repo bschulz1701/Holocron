@@ -1,0 +1,23 @@
+Teledyne Impulse Cable Info
+
+General Info:
+Many Impulse cables made of PVC/Neoprene composite, for light to medium duty
+	Very flexible, still highly water and environmentally resilient 
+	AKA Ethylene Propylene Diene Monomer Rubber (EPDM)
+	Traditionally used as microphone cable
+
+Old School and heavier gauge Cables made from a Urethane jacket 
+	Heavier, cheaper, very resistant to water and environmental hazards
+	AKA Thermoplastic Elastomer (TPE)
+	Sold under name SO Cable
+
+Newer designs using Polyurethane jacket with PVC interior for better performance 
+	More expensive, similar resiliency to conventional urethane, but with more flexibility 
+
+
+Specific Cables: (Used by Impulse)
+	4 Conductor, 20 AWG, Shielded, Belden (MPN: 8424)
+	https://www.mouser.com/ProductDetail/Belden-Wire-Cable/8424-010100?qs=Jbbg3P8fMtk6bjGu4M%252bOmQ%3D%3D
+
+	4 Conductor, 18 AWG, Non-Shielded, Allied Wire Company (MPN: SO 18/4)
+	https://www.awcwire.com/part.aspx?partname=so-18/4
