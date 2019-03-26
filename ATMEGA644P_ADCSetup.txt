@@ -1,0 +1,37 @@
+ADC Setup
+
+Settings:
+Ref = AREF
+Left Adjust = off
+ADC = ADC2
+
+ADMUX = 00 0 00010 = 0b00000010
+
+Settings:
+Ref = AREF
+Left Adjust = off
+ADC = V_BG
+
+ADMUX = 00 0 11110 = 0b00011110
+
+Settings:
+Ref = AREF
+Left Adjust = off
+ADC = GND
+
+ADMUX = 00 0 11111 = 0b00011111
+
+Operation:
+
+ADCSRA = 10000000 //Start conversion, ADC Clock = Fosc/2
+delay(conversion_time)
+read ADCH
+read ADCL
+
+
+conversion_time = (1/f_osc)*Div*(SH_Cycles + Conversion_Cycles)
+
+**See page 239 of ATMEGA644p datasheet for values of ADC conversion cycles
+
+conversion_time (first conv.) = (1/8MHz)*128*(14.5 + 25) = 0.632s (total worst case)
+
