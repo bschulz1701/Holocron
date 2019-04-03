@@ -1,0 +1,31 @@
+DIYMore Waterproof Ultrasonic Distance Sensor Testing
+
+Product Link: https://www.amazon.com/Waterproof-Ultrasonic-Distance-Measuring-Transducer/dp/B01J5KZU8M
+
+Test:
+Ranging a glass wall at ~3.5m (3.3275m measured manually)
+
+Results:
+Arduino Sampling:
+Min: 2.570m
+Max: 3.430m
+Avg: 3.120m
+Error: +10% -18%
+
+Osciloscope Sampling (TBS2000):
+Min: 203us
+Max: 214us
+Error: ~5%
+
+Power Consumption (Fluke 289):
+Current @ 5v (w/LED):
+Min: 7.449mA
+Max: 10.09mA
+Avg: 8.860mA
+
+Current @ 3.3v (w/LED):
+Min: 4.711mA
+Max: 6.325mA
+Avg: 5.560mA
+
+Note: Does work with both 3.3v and 5v
