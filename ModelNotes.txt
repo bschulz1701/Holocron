@@ -10,3 +10,10 @@ Flesh Tone:
 Airbrush - Single action used by ILM team
 Primer - Krylon Ultra Flat (fast dry)
 #13 Blades (micro saw blades)
+Weathering:
+Colors:
+	Oxide Black
+	Burnt Sienna 
+	Yellow Ochre
+Moisten object to prevent from drying quickly (for acrylic)
+Clear coat over base before weather 
