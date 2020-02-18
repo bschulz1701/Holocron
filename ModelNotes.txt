@@ -9,6 +9,10 @@ Flesh Tone:
 	- Green (very little)
 Airbrush - Single action used by ILM team
 Primer - Krylon Ultra Flat (fast dry)
+Spray Paint:
+	- For old cans, soak in bucket of hot water 45 minutes before use
+	- Plastikote Lacquer (good modeling, general paint, all used at ILM)
+	- Chrome Paint -> Use gloss primer underneath (Krylon Chrome preferred)
 #13 Blades (micro saw blades)
 Weathering:
 Colors:
@@ -25,3 +29,12 @@ Baking soda as CA accelerator (can be used as "Filler" as well)
 Wood:
 - LDF (Low Density Fiberboard) - Trupan
 	No formaldehyde 
+
+Plywood:
+	-High end: Baltic Birch Plywood
+	-Look for many layers, no voids from ends
+	-Voids can cause hot gases to be trapped when laser cutting, cause fires 
+	-Luan: Has thin finish vaneer around soft central core, good finish look, but lacks strength, aircraft plywood as alternative 
+
+Woodworking:
+	-Forstner drill bits (Spade bit alternative -> trash) for larger holes 
