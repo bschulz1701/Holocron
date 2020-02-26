@@ -38,3 +38,7 @@ Plywood:
 
 Woodworking:
 	-Forstner drill bits (Spade bit alternative -> trash) for larger holes 
+
+Styrene:
+	-Just score n' snap
+	-use x techneque for cutting out internal "windows"
